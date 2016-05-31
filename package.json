@@ -1,6 +1,6 @@
 {
   "name": "node-messenger-bot",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Messenger platform API for NodeJS",
   "main": "./lib/index.js",
   "scripts": {
