@@ -4,6 +4,7 @@
   "description": "Messenger platform API for NodeJS",
   "main": "./lib/index.js",
   "scripts": {
+    "test": "mocha ./test/"
   },
   "keywords": [
     "messenger",
@@ -15,6 +16,10 @@
   "dependencies": {
     "eventemitter3": "^1.2.0",
     "superagent": "^1.8.3"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.5.3"
   },
   "repository": {
     "type": "git",
